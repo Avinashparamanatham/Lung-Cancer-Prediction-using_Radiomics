@@ -1,0 +1,10 @@
+2025-05-22 21:22:36,071 - __main__ - INFO - Testing utility functions...
+2025-05-22 21:22:36,072 - __main__ - INFO - Using CPU
+2025-05-22 21:22:36,092 - __main__ - INFO - Memory usage: {'system': {'total': 5.888927459716797, 'available': 0.4731712341308594, 'percent': 92.0}, 'gpu': {}}
+2025-05-22 21:22:36,103 - __main__ - INFO - Experiment directory created: experiments\exp_20250522_212236
+2025-05-22 21:22:36,105 - __main__ - INFO - Utility functions test completed!
+2025-05-22 21:26:06,356 - __main__ - INFO - Testing utility functions...
+2025-05-22 21:26:06,358 - __main__ - INFO - Using CPU
+2025-05-22 21:26:06,379 - __main__ - INFO - Memory usage: {'system': {'total': 5.888927459716797, 'available': 0.6919212341308594, 'percent': 88.3}, 'gpu': {}}
+2025-05-22 21:26:06,388 - __main__ - INFO - Experiment directory created: experiments\exp_20250522_212606
+2025-05-22 21:26:06,390 - __main__ - INFO - Utility functions test completed!
